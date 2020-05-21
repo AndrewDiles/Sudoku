@@ -1,5 +1,8 @@
 ## live @ DilesSudoku.surge.sh
+## And @ DilesSudokuSolver.surge.sh
 ## surge to modify
+
+##  Run npm i -g firebase-tools to update
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
