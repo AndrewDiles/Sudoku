@@ -1,6 +1,4 @@
-## live @ DilesSudoku.surge.sh
-## And @ DilesSudokuSolver.surge.sh
-## surge to modify
+## live @ https://dilessudoku.firebaseapp.com/
 
 ##  Run npm i -g firebase-tools to update
 
